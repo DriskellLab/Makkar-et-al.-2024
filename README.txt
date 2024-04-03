@@ -4,7 +4,7 @@ Authors: Makkar, Jasson; Flores, Jorge; Matich, Mason; Thompson, Sean M; Du, Yiq
 
 Method of synthetic data generation can be found in "generate_synthetic_data".
 
-Method of model training can be found in "train_model".
+Method of model training can be found in "train_model". (model too large to upload, please email request if needed)
 
 Method of processing images with trained model can be found in "process_images".
 

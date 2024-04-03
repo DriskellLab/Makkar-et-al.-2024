@@ -25,4 +25,4 @@ config folder:
     
 models folder:
     
-    epoch_1000.pth: trained model for detection of 1024x1024 cutouts of murine hair fibers.
+    epoch_1000.pth: trained model for detection of 1024x1024 cutouts of murine hair fibers. (model too large to upload, please email request if needed)
